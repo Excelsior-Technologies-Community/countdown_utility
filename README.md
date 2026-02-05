@@ -34,7 +34,7 @@ Add this to your pubspec.yaml:
 dependencies:
   countdown_utility:
     git:
-      url: https://github.com/your-username/countdown_utility.git
+      url: https://github.com/Excelsior-Technologies-Community/countdown_utility/tree/stage
 ```
 Then run:
 ```
